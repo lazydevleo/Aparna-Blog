@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Aparna's Blog"
+theme="hugo-tailwind-journal"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+[taxonomies]
+    tag = "tags"
+[params]
+    author = "Aparna"
+    avatar = "images/Aparna.png"
+    description = "A minimalist journal"
+    tagline = "A minimalist journal"
+# [languages]
+#     [languages.en]
+#         contentDir = "content/english"
+#         languageCode = "en-us"
+#         languageName = "🇺🇸 English"
+#         weight = 1
