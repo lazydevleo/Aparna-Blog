@@ -9,4 +9,4 @@ hey this is my third post
 
 [Click here](https://lazydevstories.com/)
 
-![image nameadfadaedfa](/Aparna.png)
+![image nameadfadaedfa](/images/Aparna.png)
